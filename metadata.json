@@ -1,0 +1,6 @@
+{
+  "name": "Workforce Health",
+  "description": "Occupational Hygiene & Environmental Field Assessment System for mining and industrial operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
